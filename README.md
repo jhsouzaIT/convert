@@ -49,7 +49,7 @@ Number(value).toLocaleString("pt-br", { style: "currency", currency: "BRL" });
 
 Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/convert.git
+git clone https://github.com/jhsouzaIT/convert.git
 
 Navigate into the folder:
 
